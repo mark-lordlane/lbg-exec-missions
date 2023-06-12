@@ -4,6 +4,13 @@ body {
     color: darkmagenta;
 }
 
+
 p {
-    color: gray;
+    color: darkcyan;
+}
+
+
+li {
+    color: green;
+
 }
